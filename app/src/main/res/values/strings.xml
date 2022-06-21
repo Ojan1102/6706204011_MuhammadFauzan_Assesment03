@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Mata Uang Converter</string>
+    <string name="mata_uang_intro">Mata Uang Converter</string>
+    <string name="jumlahUang">Jumlah Uang</string>
+    <string name="hitung_usd">IDR > USD</string>
+    <string name="hitung_yen">IDR > YEN</string>
+    <string name="hitung_euro">IDR > EURO</string>
+    <string name="hasil_x">Hasil: %1$.2f</string>
+    
+    <string name="judul_usd">Uang USD</string>
+    <string name="judul_yen">Uang YEN</string>
+    <string name="judul_euro">Uang Euro</string>
+    <string name="pengertian_usd">Dolar AS adalah mata uang resmi Amerika Serikat.
+        Dolar AS juga digunakan secara luas di dunia internasional sebagai kurs cadangan devisa di luar AS.
+        Penerbitan uang dolar AS dikontrol oleh sistem perbankan Federal Reserve.
+        Simbol yang paling umum digunakan untuk dolar AS adalah lambang dolar.</string>
+    <string name="pengertian_yen">Yen adalah mata uang Jepang. Simbol: ¥; atau dalam bahasa Jepang: en.
+        Yen adalah mata uang ketiga yang paling banyak diperdagangkan di pasar valuta asing, setelah dolar Amerika Serikat dan Euro.
+        Yen ini juga banyak digunakan sebagai mata uang cadangan ketiga setelah dolar AS dan euro</string>
+    <string name="pengertian_euro">Euro adalah mata uang yang dipakai di 19 negara anggota Uni Eropa.
+        Secara giral, mata uang ini mulai dipakai sejak tanggal 1 Januari 1999,
+        tetapi secara fisik baru dipakai pada tanggal 1 Januari 2002.</string>
+    
+    <string name="tentang_aplikasi">Tentang Aplikasi</string>
+    <string name="copyright">Mata Uang Converter merupakan sebuah aplikasi Android untuk menghitung mata uang IDR(Rupiah)
+    sehingga seseorang dapat mengetahui berapakah uang IDR(Rupiah) bila ditukar ke beberapa Mata Uang negara lain</string>
+
+    <string name="bagikan">Bagikan</string>
+    <string name="bagikan_template">Jumlah: %1$s </string>
+    
+    <string name="belum_ada_data">Belum ada Data</string>
+    <string name="histori">Histori</string>
+
+    <string name="hasil_xx">Hasil Converter: %1$.2f</string>
+    <string name="data_x">Jumlah Uang: %1$.2f</string>
+
+    <string name="hapus_histori">Hapus Histori</string>
+    <string name="konfirmasi_hapus">Hapus semua histori?</string>
+    <string name="hapus">Hapus</string>
+    <string name="batal">Batal</string>
+    <string name="tidak_ada_data">tidak ada data</string>
+    <string name="koneksi_error">Koneksi Error</string>
+    <string name="mata_uang">Mata Uang</string>
+    <string name="action_switch_layout">Ubah Layout</string>
+    <string name="channel_name">Updater</string>
+    <string name="channel_desc">Update data mata uang otomatis</string>
+    <string name="notif_title">Ada mata uang baru!</string>
+    <string name="notif_text">Cek sekarang biar nggak penasaran..</string>
+
+</resources>
